@@ -30,8 +30,23 @@ Le projet inclut un score dynamique, un système de menus complet et une interfa
 - UI / HUD System
 
 
+## Gameplay Video
+
+Démonstration du gameplay du jeu : collecte de pièces, IA ennemie poursuivant le joueur, système de score et menus.
+
+[![Watch the gameplay](https://img.youtube.com/vi/OdGjLxZChZ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=OdGjLxZChZ4)
+
 
 ## Screenshots
+
+## Scène du jeu
+![Scene](scene.png)
+
+## IA ennemie
+![Enemy AI](enemy_ai.png)
+
+## Interface score
+![Score UI](score_ui.png)
 
 ## Menu principal
 ![Menu](menu_start.png)
@@ -48,23 +63,10 @@ Le projet inclut un score dynamique, un système de menus complet et une interfa
 ## Reprise / Quitter
 ![Resume Quit](resume_quit.png)
 
-## IA ennemie
-![Enemy AI](enemy_ai.png)
-
-## Interface score
-![Score UI](score_ui.png)
-
-## Scène du jeu
-![Scene](scene.png)
-
 ## Restauration des contrôles
 ![Control Restore](control_restore.png)
 
-## Gameplay Video
-
-Démonstration du gameplay du jeu : collecte de pièces, IA ennemie poursuivant le joueur, système de score et menus.
-
-[![Watch the gameplay](https://img.youtube.com/vi/OdGjLxZChZ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=OdGjLxZChZ4) 
+ 
 ## Auteur
 
 Omar Akhachane  
