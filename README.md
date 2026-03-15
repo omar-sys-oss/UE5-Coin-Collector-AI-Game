@@ -40,20 +40,20 @@ Démonstration du gameplay du jeu : collecte de pièces, IA ennemie poursuivant 
 ## Screenshots
 
 
+## Menu principal
+![Menu](menu_start.png)
+
 ## Scène du jeu
 ![Scene](scene.png)
 
 ## IA ennemie
 ![Enemy AI](enemy_ai.png)
 
-## Interface score
-![Score UI](score_ui.png)
-
-## Menu principal
-![Menu](menu_start.png)
-
 ## Menu pause
 ![Pause](menu_pause.png)
+
+## Interface score
+![Score UI](score_ui.png)
 
 ## Chargement de niveau
 ![Loading](loading_system.png)
