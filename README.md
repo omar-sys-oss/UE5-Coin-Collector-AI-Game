@@ -31,22 +31,22 @@ Le projet inclut un score dynamique, un système de menus complet et une interfa
 
 
 
-## Captures d’écran
+## Screenshots
 
 ### Menu principal
 ![Menu](Menu start.png)
 
 ### Menu pause
-![Pause](Menu Pause.png)
+![Pause](menu_pause.png)
 
 ### Chargement de niveau
-![Loading](Main Menu — Level Loading System.png)
+![Loading](loading_system.png)
 
 ### Reprise via clavier
-![Resume Keyboard](Pause Menu — Resume via Keyboard Input.png)
+![Resume Keyboard](resume_keyboard.png)
 
 ### Reprise / Quitter
-![Resume Quit](Pause Menu — Resume & Quit Button System.png)
+![Resume Quit](resume_quit.png)
 
 ### IA ennemie
 ![Enemy](Personnage IA.png)
@@ -58,7 +58,7 @@ Le projet inclut un score dynamique, un système de menus complet et une interfa
 ![Scene](Scene.png)
 
 ### Restauration des contrôles
-![Control Restore](UI Closure — Restore Player Input and Control.png)
+![Control Restore](control_restore.png)
 
 ## Gameplay Video
 
