@@ -60,8 +60,11 @@ Le projet inclut un score dynamique, un système de menus complet et une interfa
 ### Restauration des contrôles
 ![Control Restore](UI Closure — Restore Player Input and Control.png)
 
----
+## Gameplay Video
 
+Démonstration du gameplay du jeu : collecte de pièces, IA ennemie poursuivant le joueur, système de score et menus.
+
+[![Watch the gameplay](https://img.youtube.com/vi/OdGjLxZChZ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=OdGjLxZChZ4) 
 ## Auteur
 
 Omar Akhachane  
